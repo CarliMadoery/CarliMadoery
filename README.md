@@ -16,8 +16,7 @@
 
 #### 💞️ I’m looking to collaborate on exciting data-driven projects where my experience in project management, stakeholder engagement, and strategic data analysis can make a meaningful impact. Open to collaboration with like-minded individuals who share a passion for innovation.
 
-#### 📫 Feel free to connect with me via [Email](mailto:ccmadoery@gmail.com) or [LinkedIn](https://www.linkedin.com/in/carlosmadoery/). Let's explore opportunities, share ideas, and contribute to the ever-evolving field of data science together! 🚀
-
+#### 📫 Feel free to connect with me via [![Email](https://img.shields.io/badge/Email-FFFFFF?style=flat&logo=gmail&logoColor=red)](mailto:ccmadoery@gmail.com) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosmadoery/). Let's explore opportunities, share ideas, and contribute to the ever-evolving field of data science together! 🚀
 
 <!---
 CarliMadoery/CarliMadoery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
